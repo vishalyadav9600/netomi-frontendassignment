@@ -1,0 +1,54 @@
+
+.parent{
+    margin: auto;
+    padding: 10%;
+    border: green solid;
+    justify-content: center;
+    display:flex;
+    block-size: 300;
+}
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  block-size: 450px;
+  border-color: white;
+  padding: 0.3vh;
+  font-family: "Poppins", sans-serif;
+
+}
+
+#survey3{
+  background-color: lightgrey;
+  border-style: solid;
+  block-size: 420px;
+  border-color:white;
+  font-family: "Poppins", sans-serif;
+}
+
+.iframediv{
+  border: red solid;
+   
+   justify-content: center;
+   display: flex;
+}
+
+.bottom{
+    position: absolute;
+    padding-top: 35rem;
+}
+
+
+#submit{
+    margin-top: 1rem;
+    background-color: #166969;
+    border: none;
+}
+
+.form-group{
+  padding: 1.5%;
+}
+.sample-form{
+  background-color: white;
+  
+}
